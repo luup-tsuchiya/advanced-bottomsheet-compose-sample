@@ -1,5 +1,7 @@
 # advanced-bottomsheet-compose-sample
 
+## IDE Version
+Android Studio Koala | 2024.1.1 Patch 1
 
 ## repository
 https://github.com/Morfly/advanced-bottomsheet-compose
